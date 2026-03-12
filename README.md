@@ -4,6 +4,8 @@
   | | |    -|  |  | | | |
   |_| |__|__|_____|_|___|
 ```
+
+## What is this
 This is small tron game implementation on python. You can play it with friend even on a scool pc
 
 ## Installing
