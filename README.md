@@ -58,5 +58,5 @@ Game:
 
 ## Credits
 Used libraries are:
-  - [`colorama`](https://pypi.org/project/colorama/) by wiggin15 and tartley
-  - [`keyboard`](https://pypi.org/project/keyboard/) by BoppreH
+  - [`Colorama`](https://pypi.org/project/colorama/) by wiggin15 and tartley
+  - [`Keyboard`](https://pypi.org/project/keyboard/) by BoppreH
